@@ -8,3 +8,7 @@ BusTickedApp Video
 
 https://user-images.githubusercontent.com/83227022/170870447-02add5fb-2d9e-404c-84d8-38b5366c54a1.mp4
 
+## Rozetler
+
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
